@@ -9,6 +9,6 @@ and building up to more complex projects.
 - Building probability visualisation tools that help with my understanding of concepts
 ## Repository Structure
 - bash-automation: Shell scripts and automation tools
-- python-data-science: (Coming soon)
-- machine-learning: (Coming soon)
+- python-data-science:
+- machine-learning:
 - web-development: (Coming soon)
