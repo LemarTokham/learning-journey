@@ -29,7 +29,7 @@ git push
 if [$? -eq 0 ]; then
     echo "Successfully pushed to Github!"
 else
-    echo "Something went wrong, please check error messagees"
+    echo "Something went wrong, please check error messagees!"
 fi
 
 
