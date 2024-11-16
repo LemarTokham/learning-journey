@@ -18,3 +18,6 @@ and building up to more complex projects.
 ## Featured Projects
 ### [Arduino Pomodoro Timer](./arduino/lcd_pomodoro)
 A physical productivity timer built with Arduino UNO and LCD display
+
+### [File Organiser](./bash-automation/file-organiser/)
+A simple bash script that helps organise PDFs and other file types within my Downloads folder
