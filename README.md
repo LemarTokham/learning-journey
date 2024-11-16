@@ -16,5 +16,5 @@ and building up to more complex projects.
 - arduino
 
 ## Featured Projects
-### [Arduino Pomodoro Timer] (./arduino/lcd_pomodoro)
+### [Arduino Pomodoro Timer](./arduino/lcd_pomodoro)
 A physical productivity timer built with Arduino UNO and LCD display
