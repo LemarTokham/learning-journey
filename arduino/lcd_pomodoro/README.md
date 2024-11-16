@@ -1,6 +1,6 @@
 # Arduino Pomodoro Timer
 
-A physical pomodoro timer built with an Arduino to make me more likely to study because i built it myself.
+A physical pomodoro timer built with an Arduino to make me more likely to study because I built it myself.
 
 ## Features
 - 25-minute work timer
