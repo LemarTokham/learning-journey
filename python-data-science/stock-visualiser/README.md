@@ -5,7 +5,7 @@ A Python-based financial analysis tool that creates interactive visualisations f
 - Real-time stock data fetching using yfinance
 - Interactive candlestick charts with Plotly
 - Trading volume analysis
-- Customizable time ranges (1M, 3M, ALL)
+- Customisable time ranges (1M, 3M, ALL)
 - Daily price change analysis
 - Hover functionality for detailed data viewing
 
