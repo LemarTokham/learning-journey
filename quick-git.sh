@@ -1,6 +1,5 @@
 #!/bin/bash 
-# shebang
-
+# quicker way of updating the README
 DEFAULT_MESSAGE="Update README"
 
 # Allows us to type in a custmer commit message
