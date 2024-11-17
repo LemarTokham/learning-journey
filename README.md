@@ -15,7 +15,10 @@ and building up to more complex projects.
 - web-development: (Coming soon)
 - arduino
 
-## Featured Projects
+## [Featured Projects](./python-data-science/stock-visualiser/)
+### Stock Market Data Visualiser
+A Python-based tool for analysing stock market data on Jupyter Notebooks
+
 ### [Arduino Pomodoro Timer](./arduino/lcd_pomodoro)
 A physical productivity timer built with Arduino UNO and LCD display
 
