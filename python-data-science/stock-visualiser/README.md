@@ -1,6 +1,6 @@
 # Interactive Stock Market Analyzer
 A Python-based financial analysis tool that creates interactive visualisations for stock market data.
-
+(Plotly charts aren't able to be rendered on github, they can be viewed by opening the notebook locally and downloading the relevant dependencies)
 ## Features
 - Real-time stock data fetching using yfinance
 - Interactive candlestick charts with Plotly
