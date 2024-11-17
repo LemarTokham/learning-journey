@@ -1,0 +1,5 @@
+yfinance==0.2.48
+plotly==5.22.0
+pandas==2.2.2
+seaborn==0.13.2
+notebook==7.0.8
