@@ -85,7 +85,7 @@ void loop() {
         lcd_1.print(minutes);
         lcd_1.print(":");
         lcd_1.print(seconds);
-        if (millis() - lastSecondUpdate >= 10){
+        if (millis() - lastSecondUpdate >= 1000){
           lastSecondUpdate = millis(); // reset the seconds timer
           seconds++;
           if (seconds == 60) {
@@ -107,7 +107,7 @@ void loop() {
         lcd_1.print(minutes);
         lcd_1.print(":");
         lcd_1.print(seconds);
-        if (millis() - lastSecondUpdate >= 10){
+        if (millis() - lastSecondUpdate >= 1000){
           lastSecondUpdate = millis();
           seconds++;
           if (seconds == 60) {
