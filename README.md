@@ -4,8 +4,9 @@ Documenting my journey learning different technologies. Starting with basic bash
 and building up to more complex projects.
 
 ## Current Focus
+- Implementing Data Structures and algorithms
 - Learning bash scripting through simple automation projects
-- Implementing some ML concepts i find interesting
+- Implementing some ML concepts I find interesting
 - Building probability visualisation tools that help with my understanding of concepts
 - Tinkering wih electronics and microcontrollers
 ## Repository Structure
@@ -14,6 +15,7 @@ and building up to more complex projects.
 - machine-learning:
 - web-development: (Coming soon)
 - arduino
+- data-structures-&-algs
 
 ## Featured Projects
 ### [Stock Market Data Visualiser](./python-data-science/stock-visualiser/)
