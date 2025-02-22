@@ -15,7 +15,7 @@ and building up to more complex projects.
 - machine-learning:
 - web-development: (Coming soon)
 - arduino
-- data-structures-&-algs
+- data-structures-&-algs:
 
 ## Featured Projects
 ### [Stock Market Data Visualiser](./python-data-science/stock-visualiser/)
