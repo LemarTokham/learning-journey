@@ -6,8 +6,9 @@ class TreeNode:
         self.left = None
 
 def search(root, target):
+    # Check if tree is empty
     if not root:
-        return False # No rootnode, tree is empty
+        return False 
     
     if target > root.val:
         return search(root.right, target)
@@ -16,6 +17,17 @@ def search(root, target):
     else:
         return True
     
+def insert(root, val):
+    # if tree is empty, node to be inserted becomes our root node
+    if not root:
+        root = TreeNode(val)
+    
+    # Find where to insert the new node
+    if val > root.val:
+        root.right = insert(root.right, val)
+    elif val < root.val:
+        root.left = insert(root.left, val)
+    return root
 
 
 # Create tree node object
@@ -26,3 +38,7 @@ root.left = leaf1
 root.right = leaf2
 print(root.val, root.left.val, root.right.val)
 print(search(root, 4))
+
+insert(root, 4)
+print(search(root,4))
+print(root.val, root.left.val, root.right.val, root.right.right.val)
